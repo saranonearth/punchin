@@ -1,0 +1,13 @@
+{
+  "name": "punchincron",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "ayiooo": "^1.0.7",
+    "puppeteer": "^8.0.0"
+  }
+}
